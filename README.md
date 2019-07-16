@@ -47,6 +47,3 @@ $ react-native run-ios/run-android
 - [react-redux](https://github.com/reactjs/react-redux)
 - [redux-thunk](https://github.com/gaearon/redux-thunk)
 
-> ### 文章转载自
-
-## [CookieJ](https://github.com/ljunb/react-native-iShiWuPai.git)
